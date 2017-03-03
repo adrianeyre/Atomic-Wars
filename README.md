@@ -1,4 +1,4 @@
-# Atomic-Wars Atom Package
+# Atomic-Wars Atom Package 
 #### Technologies: Javascript, Coffeescript, Jasmine, Atom
 ### [Makers Academy] (http://www.makersacademy.com) - Week 9 Group Project
 
@@ -85,3 +85,5 @@ Atomic-Wars: Submit   # Submits completed Kata to Codewars
 [Online Presentation] (https://docs.google.com/presentation/d/1z8W0Xob5FVX59OMNMuhPzoWrclGsA3bZyrIt4cELIXw/edit#slide=id.gcb9a0b074_1_0) 
 
 ## <a name="Shots">Screenshots</a>
+### Atom
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/Atomic-Wars/master/images/screenshot1.png)](https://raw.githubusercontent.com/adrianeyre/Atomic-Wars/master/images/screenshot1.png "Screen Shot 1")
