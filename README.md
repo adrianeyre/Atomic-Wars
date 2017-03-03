@@ -7,16 +7,17 @@
 </p>
 
 ## Team Members
+* [Adrian Eyre](https://github.com/adrianeyre)
 * [Rob Brentnall](https://github.com/treborb)
 * [James Turner](https://github.com/JamesTurnerGit)
 * [Ben Carson](https://github.com/BenJohnCarson)
-* [Adrian Eyre](https://github.com/adrianeyre)
 
 ## Index
 * [Task] (#Task)
 * [Installation] (#Install)
 * [User Stories] (#Stories)
 * [Usage] (#Usage)
+* [Online Presentation] (#Pres)
 
 ## <a name="Task">Task</a>
 Codewars Atom package that creates and manages a GitHub repo and lets you work in your preferred environment.
@@ -78,3 +79,5 @@ In Atom
 Atomic-Wars: New      # Creates a new Kata
 Atomic-Wars: Submit   # Submits completed Kata to Codewars
 ```
+
+## <a name="Pres">Online Presentation</a>
