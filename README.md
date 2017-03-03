@@ -18,6 +18,7 @@
 * [User Stories] (#Stories)
 * [Usage] (#Usage)
 * [Online Presentation] (#Pres)
+* [Screenshots] (#Shots)
 
 ## <a name="Task">Task</a>
 Codewars Atom package that creates and manages a GitHub repo and lets you work in your preferred environment.
@@ -81,3 +82,6 @@ Atomic-Wars: Submit   # Submits completed Kata to Codewars
 ```
 
 ## <a name="Pres">Online Presentation</a>
+[Online Presentation] (https://docs.google.com/presentation/d/1z8W0Xob5FVX59OMNMuhPzoWrclGsA3bZyrIt4cELIXw/edit#slide=id.gcb9a0b074_1_0) 
+
+## <a name="Shots">Screenshots</a>
