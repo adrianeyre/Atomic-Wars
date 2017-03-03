@@ -26,7 +26,7 @@ Codewars Atom package that creates and manages a GitHub repo and lets you work i
 ## <a name="Install">Installation</a>
 To install the Atom Package
 ```
-$ git clone https://github.com/JamesTurnerGit/Atomic-Wars
+$ git clone https://github.com/adrianeyre/Atomic-Wars
 $ cd Atomic-Wars
 $ apm install
 ```
