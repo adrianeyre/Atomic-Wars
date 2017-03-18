@@ -1,6 +1,6 @@
 # Atomic-Wars Atom Package 
 #### Technologies: Javascript, Coffeescript, Jasmine, Atom
-### [Makers Academy] (http://www.makersacademy.com) - Week 9 Group Project
+### [Makers Academy](http://www.makersacademy.com) - Week 9 Group Project
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adrianeyre/Atomic-Wars/master/images/AtomicWarsLogo.png">
@@ -13,18 +13,18 @@
 * [Ben Carson](https://github.com/BenJohnCarson)
 
 ## Index
-* [Task] (#Task)
-* [Installation] (#Install)
-* [User Stories] (#Stories)
-* [Usage] (#Usage)
-* [Online Presentation] (#Pres)
-* [Screenshots] (#Shots)
+* [Task](#Task)
+* [Installation](#Install)
+* [User Stories](#Stories)
+* [Usage](#Usage)
+* [Online Presentation](#Pres)
+* [Screenshots](#Shots)
 
 ## <a name="Task">Task</a>
 Codewars Atom package that creates and manages a GitHub repo and lets you work in your preferred environment.
 
 ## <a name="Install">Installation</a>
-* [Original repository] (https://github.com/JamesTurnerGit/Atomic-Wars)
+* [Original repository](https://github.com/JamesTurnerGit/Atomic-Wars)
 
 To install the Atom Package
 ```
